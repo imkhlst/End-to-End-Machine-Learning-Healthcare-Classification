@@ -1,6 +1,18 @@
 # End-to-End-Machine-Learning-Healthcare-Classification
 
-## How to run?
+## Workflow step
+
+### Early Setup
+1. Create an repo on your github.
+2. Clone the repo into your work directory.
+3. Setup your conda environment, you can see steps below.
+4. Open a VS Code, then run template.py on your terminal.
+
+### Data Ingestion
+1. Download healthcare kaggle dataset via link mentioned above
+2. 
+
+## How to create and run conda environment?
 
 Set your conda name and python version. My conda name is healthcare and python version is 3.11.3.
 
