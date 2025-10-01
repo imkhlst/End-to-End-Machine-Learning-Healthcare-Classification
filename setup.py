@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="healthcare_classification",
+    name="rain_prediction",
     version="0.0.0",
     author="Khalish",
     author_email="khalish.21muhammad07@gmail.com",

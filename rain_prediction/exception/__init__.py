@@ -10,7 +10,7 @@ def error_message_detail(error, error_detail:sys):
     
     return error_message
 
-class HealthcareException(Exception):
+class RainPredictionException(Exception):
     def __init__(self, error_message: str, error_detail):
         """_summary_
 

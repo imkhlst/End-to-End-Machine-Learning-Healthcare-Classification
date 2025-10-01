@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-project_name = "healthcare_classification"
+project_name = "rain_prediction"
 
 list_of_files = [
     f"{project_name}/__init__.py",
