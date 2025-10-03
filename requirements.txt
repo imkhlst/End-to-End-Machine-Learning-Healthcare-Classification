@@ -10,6 +10,7 @@ imblearn
 xgboost
 catboost
 pymongo
+certifi
 dill
 PyYAML
 neuro-mf
