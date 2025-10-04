@@ -1,11 +1,4 @@
-from rain_prediction.logger import logging
-from rain_prediction.exception import RainPredictionException
-import sys
+from rain_prediction.pipeline.training_pipeline import TrainPipeline
 
-logging.info("welcome to our custome log")
-
-
-try:
-    a = 2/0
-except Exception as e:
-    raise RainPredictionException(e, sys)
+obj = TrainPipeline()
+obj.run_pipeline()
