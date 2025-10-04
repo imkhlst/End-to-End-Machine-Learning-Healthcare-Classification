@@ -1,6 +1,11 @@
 # End-to-End-Machine-Learning-Rain-Prediction
 
 ## Workflow step
+1. Update Constant
+2. Update Artifact and Config Entity
+3. Update Component
+4. Update Pipeline
+5. Update Main file
 
 ### Early Setup
 1. Create an repo on your github.

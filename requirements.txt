@@ -11,6 +11,7 @@ xgboost
 catboost
 pymongo
 certifi
+evidently==0.2.8
 dill
 PyYAML
 neuro-mf

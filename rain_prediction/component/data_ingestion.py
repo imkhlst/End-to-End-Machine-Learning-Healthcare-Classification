@@ -97,7 +97,7 @@ class DataIngestion:
             
             data_ingestion_artifact = DataIngestionArtifact(
                 trained_file_path=self.data_ingestion_config.training_file_path,
-                test_file_path=self.data_ingestion_config.testing_file_path
+                tested_file_path=self.data_ingestion_config.testing_file_path
             )
             
             logging.info(f"Data Ingestion artifact: {data_ingestion_artifact}")
